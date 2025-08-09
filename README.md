@@ -11,3 +11,5 @@ I am required to write a script server-stats.sh that can analyse basic server pe
 * Total disk usage (Free vs Used including percentage)
 * Top 5 processes by CPU usage
 * Top 5 processes by memory usage
+
+Project url: https://roadmap.sh/projects/log-archive-tool
